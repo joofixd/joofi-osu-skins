@@ -10,7 +10,7 @@ skins that i use frequently (of course i won't add every skin i have downloaded 
 # [bwpgy 2.4](https://joofi.s-ul.eu/X7tOQnUl) (basically an edited version of Seoul v9 Personal Skin)
 ![](https://osu.ppy.sh/ss/11929102)
 
-# [bwpgy](https://joofi.s-ul.eu/NQcKY26W) (bwpgy skins are not my original skins, but ones that i heavily mixed, meaning i pasted files everywhere and edited a lot of stuff rather than changing a few files on a downloaded skin)
+# [bwpgy](https://joofi.s-ul.eu/NQcKY26W) (bwpgy skins are just heavily mixed skins that i made)
 ![](https://osu.ppy.sh/ss/11929068)
 
 # [bwpgy dt](https://joofi.s-ul.eu/gMStA6OO) (USED ESPECIALLY OFTEN)
