@@ -7,8 +7,11 @@ skins that i use frequently (of course i won't add every skin i have downloaded 
 # [bwpgy 2.3](https://joofi.s-ul.eu/4NgUFUeI) (USED ESPECIALLY OFTEN)
 ![](https://osu.ppy.sh/ss/11928924)
 
-# [bwpgy](https://joofi.s-ul.eu/NQcKY26W)
+# [bwpgy](https://joofi.s-ul.eu/NQcKY26W) (bwpgy skins are not my original skins, but ones that i heavily mixed, meaning i pasted files everywhere and edited a lot of stuff rather than changing a few files on a downloaded skin)
 ![](https://osu.ppy.sh/ss/11929068)
+
+# [bwpgy dt](https://joofi.s-ul.eu/gMStA6OO) (USED ESPECIALLY OFTEN)
+![](https://osu.ppy.sh/ss/11929077)
 
 # [Eddie (katou megumi)](https://joofi.s-ul.eu/LmSUTJWX) (USED ESPECIALLY OFTEN)
 ![](https://osu.ppy.sh/ss/11929041)
