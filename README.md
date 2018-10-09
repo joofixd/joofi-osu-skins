@@ -1,4 +1,4 @@
-# my osu! skins (mixed or other people's)
+# my osu! skins (mixed skins other people's skins)
 skins that i use frequently (of course i won't add every skin i have downloaded but i will add a good amount here)
 
 # [bwpgy 2.3](https://joofi.s-ul.eu/4NgUFUeI) (USED ESPECIALLY OFTEN)
