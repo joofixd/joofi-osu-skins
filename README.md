@@ -3,7 +3,7 @@ skins that i use frequently (of course i won't add every skin i have downloaded 
 
 
 # [bwpgy 2.3](https://joofi.s-ul.eu/4NgUFUeI)
-![](https://osu.ppy.sh/ss/11928895)
+![](https://osu.ppy.sh/ss/11928924)
 
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/EnCLB4td)
 ![](https://osu.ppy.sh/ss/11928910)
