@@ -15,7 +15,7 @@ ALSO, just some info on my bwpgy skins, since there's a number of them: bwpgy is
 # [bwpgy 1.1](https://joofi.s-ul.eu/K72IAN8v) (USED ESPECIALLY OFTEN) (gameplay elements from ikanyai's skin)
 ![](https://osu.ppy.sh/ss/11944843)
 
-# [bwpgy rafis](https://joofi.s-ul.eu/gMStA6OO) (USED ESPECIALLY OFTEN) (gameplay elements from rafis' skin)
+# [bwpgy rafis](https://joofi.s-ul.eu/REfN8L0V) (USED ESPECIALLY OFTEN) (gameplay elements from rafis' skin)
 ![](https://osu.ppy.sh/ss/11963284)
 
 # [bwpgy](https://joofi.s-ul.eu/NQcKY26W) (the one that started it all)
