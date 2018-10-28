@@ -9,9 +9,6 @@ ALSO, just some info on my bwpgy skins, since there's a number of them: bwpgy is
 # [bwpgy 2.3](https://joofi.s-ul.eu/4NgUFUeI) (USED ESPECIALLY OFTEN) (gameplay elements from some version of seoul v9)
 ![](https://osu.ppy.sh/ss/11928924)
 
-# [bwpgy 2.4](https://joofi.s-ul.eu/X7tOQnUl) (basically an edited version of Seoul v9 Personal Skin)
-![](https://osu.ppy.sh/ss/11929102)
-
 # [bwpgy 1.1](https://joofi.s-ul.eu/K72IAN8v) (USED ESPECIALLY OFTEN) (gameplay elements from ikanyai's skin)
 ![](https://osu.ppy.sh/ss/11944843)
 
