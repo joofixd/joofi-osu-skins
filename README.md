@@ -16,11 +16,13 @@ ALSO, just some info on my bwpgy skins, since there's a number of them: bwpgy is
 ![](https://osu.ppy.sh/ss/11928924)
 (gameplay elements from some version of seoul v9)
 
-# [bwpgy 1.1](https://joofi.s-ul.eu/K72IAN8v) (very often used) (gameplay elements from ikanyai's skin)
+# [bwpgy 1.1](https://joofi.s-ul.eu/K72IAN8v) (very often used)
 ![](https://osu.ppy.sh/ss/11944843)
+(gameplay elements from ikanyai's skin)
 
-# [bwpgy rafis](https://joofi.s-ul.eu/REfN8L0V) (very often used) (gameplay elements from rafis' skin)
+# [bwpgy rafis](https://joofi.s-ul.eu/REfN8L0V) (very often used)
 ![](https://osu.ppy.sh/ss/11963284)
+(gameplay elements from rafis' skin)
 
 # [bwpgy](https://joofi.s-ul.eu/NQcKY26W) (sometimes used)
 ![](https://osu.ppy.sh/ss/11929068)
