@@ -16,7 +16,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 ![](https://osu.ppy.sh/ss/12330080)
 
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI) (rarely used)
-![](https://osu.ppy.sh/ss/11928910)
+![](https://osu.ppy.sh/ss/12330091)
 
 # [bwpgy 2.3](https://joofi.s-ul.eu/vFWnu1w5) (rarely used)
 ![](https://osu.ppy.sh/ss/11928924)
