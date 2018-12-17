@@ -3,7 +3,9 @@ skins that i use frequently and/or like a lot
 
 # SKINS ARE LABELED ACCORDING TO USAGE, MAIN SKINS AT TOP
 
-labels are "very often used", "kinda often used", "sometimes used", "rarely used", and "never used"
+labels are "very often used", "kinda often used", "sometimes used", "rarely used", and "never used". also the skins are in alphabetical order (except for main skins, obviously)
+
+# INFO
 
 some skins may appear different than the picture when putting them in the game. that's because i update the download file often and change my skins every now and then. they are easily customizable in the folder of the skin. if you need any help with my skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll update this page (skin preview picture, dl files, etc.) as often as i can.
 
