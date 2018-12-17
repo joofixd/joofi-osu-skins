@@ -1,7 +1,7 @@
 # my osu! skins (mixed skins and other people's skins. not a single one is my original creation)
 skins that i use frequently and/or like a lot
 
-# THE SKIN AT THE TOP IS MY MOST USED SKIN, OTHER SKINS I USE VERY OFTEN ARE LABELED APPROPRIATELY.
+# SKINS ARE LABELED ACCORDING TO USAGE, MAIN SKINS AT TOP
 
 labels are "very often used", "kinda often used", "sometimes used", "rarely used", and "never used"
 
@@ -9,7 +9,13 @@ some skins may appear different than the picture when putting them in the game. 
 
 INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2018 (i still edit shit everyday). i did not create any of the files. the goal of these skins are to be comfortable, minimalistic, and playable. there are VERY minimal weeb elements (welcome files, combobreak, a couple more maybe i forgot) that can be easily removed. oh yea, and the name is bwpgy because the original idea was to have the combo colors be blue, white, pink, green, and yellow, but more recent skins in the lineup don't really follow that rule.
 
- # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/EnCLB4td) (sometimes used)
+# [bwpgy 2.4.2](https://joofi.s-ul.eu/QFmKKkdR) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/12330073)
+
+# []() ()
+![]()
+
+# [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/EnCLB4td) (sometimes used)
 ![](https://osu.ppy.sh/ss/11928910)
 
 # [bwpgy 2.3](https://joofi.s-ul.eu/4NgUFUeI) (sometimes used)
