@@ -15,18 +15,18 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0) (MAIN DT)
 ![](https://osu.ppy.sh/ss/12330080)
 
-# [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/EnCLB4td) (sometimes used)
+# [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/EnCLB4td) (rarely used)
 ![](https://osu.ppy.sh/ss/11928910)
 
-# [bwpgy 2.3](https://joofi.s-ul.eu/4NgUFUeI) (sometimes used)
+# [bwpgy 2.3](https://joofi.s-ul.eu/4NgUFUeI) (rarely used)
 ![](https://osu.ppy.sh/ss/11928924)
 (gameplay elements from some version of seoul v9)
 
-# [bwpgy 1.1](https://joofi.s-ul.eu/K72IAN8v) (very often used)
+# [bwpgy 1.1](https://joofi.s-ul.eu/K72IAN8v) (kinda often used)
 ![](https://osu.ppy.sh/ss/11944843)
 (gameplay elements from ikanyai's skin)
 
-# [bwpgy rafis](https://joofi.s-ul.eu/REfN8L0V) (very often used)
+# [bwpgy rafis](https://joofi.s-ul.eu/REfN8L0V) (kinda often used)
 ![](https://osu.ppy.sh/ss/11963284)
 (gameplay elements from rafis' skin)
 
