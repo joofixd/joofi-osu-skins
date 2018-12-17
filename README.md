@@ -12,8 +12,8 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy 2.4.2](https://joofi.s-ul.eu/QFmKKkdR) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12330073)
 
-# []() ()
-![]()
+# [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0) (MAIN DT)
+![](https://osu.ppy.sh/ss/12330080)
 
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/EnCLB4td) (sometimes used)
 ![](https://osu.ppy.sh/ss/11928910)
