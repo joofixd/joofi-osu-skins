@@ -19,19 +19,19 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 ![](https://osu.ppy.sh/ss/12330091)
 
 # [bwpgy 2.3](https://joofi.s-ul.eu/vFWnu1w5) (rarely used)
-![](https://osu.ppy.sh/ss/11928924)
+![](https://osu.ppy.sh/ss/12330110)
 (gameplay elements from some version of seoul v9)
 
 # [bwpgy 1.1](https://joofi.s-ul.eu/iVjagq2l) (kinda often used)
-![](https://osu.ppy.sh/ss/11944843)
+![](https://osu.ppy.sh/ss/12330115)
 (gameplay elements from ikanyai's skin)
 
 # [bwpgy rafis](https://joofi.s-ul.eu/SDXLlK9h) (kinda often used)
-![](https://osu.ppy.sh/ss/11963284)
+![](https://osu.ppy.sh/ss/12330121)
 (gameplay elements from rafis' skin)
 
 # [bwpgy](https://joofi.s-ul.eu/FSAL8jMW) (sometimes used)
-![](https://osu.ppy.sh/ss/11929068)
+![](https://osu.ppy.sh/ss/12330123)
 
 # [Eddie (katou megumi)](https://joofi.s-ul.eu/YLHtwSko) (rarely used)
-![](https://osu.ppy.sh/ss/11929041)
+![](https://osu.ppy.sh/ss/12330124)
