@@ -15,26 +15,23 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0) (MAIN DT)
 ![](https://osu.ppy.sh/ss/12330080)
 
-# [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/EnCLB4td) (rarely used)
+# [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI) (rarely used)
 ![](https://osu.ppy.sh/ss/11928910)
 
-# [bwpgy 2.3](https://joofi.s-ul.eu/4NgUFUeI) (rarely used)
+# [bwpgy 2.3](https://joofi.s-ul.eu/vFWnu1w5) (rarely used)
 ![](https://osu.ppy.sh/ss/11928924)
 (gameplay elements from some version of seoul v9)
 
-# [bwpgy 1.1](https://joofi.s-ul.eu/K72IAN8v) (kinda often used)
+# [bwpgy 1.1](https://joofi.s-ul.eu/iVjagq2l) (kinda often used)
 ![](https://osu.ppy.sh/ss/11944843)
 (gameplay elements from ikanyai's skin)
 
-# [bwpgy rafis](https://joofi.s-ul.eu/REfN8L0V) (kinda often used)
+# [bwpgy rafis](https://joofi.s-ul.eu/SDXLlK9h) (kinda often used)
 ![](https://osu.ppy.sh/ss/11963284)
 (gameplay elements from rafis' skin)
 
-# [bwpgy](https://joofi.s-ul.eu/NQcKY26W) (sometimes used)
+# [bwpgy](https://joofi.s-ul.eu/FSAL8jMW) (sometimes used)
 ![](https://osu.ppy.sh/ss/11929068)
 
-# [Eddie (katou megumi)](https://joofi.s-ul.eu/LmSUTJWX) (rarely used)
+# [Eddie (katou megumi)](https://joofi.s-ul.eu/YLHtwSko) (rarely used)
 ![](https://osu.ppy.sh/ss/11929041)
-
-# [Kaomoji V.6 (slightly edited by me)](https://joofi.s-ul.eu/MBWFWal5) (rarely used)
-![](https://osu.ppy.sh/ss/11928991)
