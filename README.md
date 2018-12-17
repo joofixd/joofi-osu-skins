@@ -1,5 +1,5 @@
 # my osu! skins (mixed skins and other people's skins. not a single one is my original creation)
-skins that i use frequently (of course i won't add every skin i have downloaded but i will add all the ones that i use often and/or like a lot)
+skins that i use frequently and/or like a lot
 
 # THE SKIN AT THE TOP IS MY MOST USED SKIN, OTHER SKINS I USE VERY OFTEN ARE LABELED APPROPRIATELY.
 
