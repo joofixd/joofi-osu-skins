@@ -29,6 +29,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [azer8idke](https://joofi.s-ul.eu/pEgUw8TC)
 ![](https://osu.ppy.sh/ss/12339456)
 
+# [azer8midnight](https://joofi.s-ul.eu/j1sUYLNC)
+![](https://osu.ppy.sh/ss/12340258)
+
 # [azer8pinkmidnight](https://joofi.s-ul.eu/Q6XoTPFe)
 ![](https://osu.ppy.sh/ss/12335664)
 
