@@ -94,26 +94,32 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 ![](https://osu.ppy.sh/ss/12335787)
 ![](https://osu.ppy.sh/ss/12335788)
 
-# []()
-![]()
+# [rafis (mathi)](https://joofi.s-ul.eu/8vx1JdIA)
+![](https://osu.ppy.sh/ss/12335794)
 
-# []()
-![]()
+# [rafis 2017](https://joofi.s-ul.eu/Yc78R1ZF)
+![](https://osu.ppy.sh/ss/12335800)
 
-# []()
-![]()
+# [ReesesPuffs Skin v1](https://joofi.s-ul.eu/3c6OZZc9)
+![](https://osu.ppy.sh/ss/12335805)
 
-# []()
-![]()
+# [reimu-desu remake](https://joofi.s-ul.eu/a6GHy4V5)
+![](https://osu.ppy.sh/ss/12335807)
 
-# []()
-![]()
+# [Rohulk 4.0](https://joofi.s-ul.eu/VR2r5u2P)
+![](https://osu.ppy.sh/ss/12335821)
 
-# []()
-![]()
+# [Rohulk 5.0b](https://joofi.s-ul.eu/J8urnDGp)
+![](https://osu.ppy.sh/ss/12335831)
 
-# []()
-![]()
+# [Selyu](https://joofi.s-ul.eu/brRZ20Cc)
+![](https://osu.ppy.sh/ss/12335835)
+
+# [Selyu v2.3](https://joofi.s-ul.eu/ppHmR81F)
+![](https://osu.ppy.sh/ss/12335838)
+
+# [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI)
+![](https://osu.ppy.sh/ss/12335843)
 
 # []()
 ![]()
