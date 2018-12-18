@@ -14,7 +14,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy 2.4.2](https://joofi.s-ul.eu/QFmKKkdR) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12330073)
 
-# [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/DSmPLRy6) (MAIN NOMOD)
+# [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/5mLII1FM) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12335637)
 
 # [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0) (MAIN DT)
