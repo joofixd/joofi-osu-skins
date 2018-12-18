@@ -71,8 +71,11 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy ver. 2.4.3](https://joofi.s-ul.eu/uAqcEIhK)
 ![](https://osu.ppy.sh/ss/12335748)
 
-# []()
-![]()
+# [Chitanda](https://joofi.s-ul.eu/cQzn64KR)
+![](https://osu.ppy.sh/ss/12335755)
+
+# [Eddie (katou megumi)](https://joofi.s-ul.eu/YLHtwSko)
+![](https://osu.ppy.sh/ss/12330124)
 
 # []()
 ![]()
@@ -121,6 +124,3 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI) (rarely used)
 ![](https://osu.ppy.sh/ss/12330091)
-
-# [Eddie (katou megumi)](https://joofi.s-ul.eu/YLHtwSko) (rarely used)
-![](https://osu.ppy.sh/ss/12330124)
