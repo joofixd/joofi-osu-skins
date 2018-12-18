@@ -44,23 +44,23 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy (rafis)](https://joofi.s-ul.eu/SDXLlK9h)
 ![](https://osu.ppy.sh/ss/12335697)
 
-# []()
-![]()
+# [bwpgy 1.1](https://joofi.s-ul.eu/iVjagq2l)
+![](https://osu.ppy.sh/ss/12330115)
 
-# []()
-![]()
+# [bwpgy ver. 2](https://joofi.s-ul.eu/9OpfueYe)
+![](https://osu.ppy.sh/ss/12335706)
 
-# []()
-![]()
+# [bwpgy ver. 2 (og)](https://joofi.s-ul.eu/Ibvw8YXO)
+![](https://osu.ppy.sh/ss/12335711)
 
-# []()
-![]()
+# [bwpgy ver. 2.1](https://joofi.s-ul.eu/wOtHo6Xw)
+![](https://osu.ppy.sh/ss/12335718)
 
-# []()
-![]()
+# [bwpgy ver. 2.2](https://joofi.s-ul.eu/LOwRnsQ6)
+![](https://osu.ppy.sh/ss/12335723)
 
-# []()
-![]()
+# [bwpgy 2.3](https://joofi.s-ul.eu/vFWnu1w5)
+![](https://osu.ppy.sh/ss/12330110)
 
 # []()
 ![]()
@@ -124,15 +124,12 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [bwpgy 2.3](https://joofi.s-ul.eu/vFWnu1w5) (rarely used)
 ![](https://osu.ppy.sh/ss/12330110)
-(gameplay elements from some version of seoul v9)
 
 # [bwpgy 1.1](https://joofi.s-ul.eu/iVjagq2l) (kinda often used)
 ![](https://osu.ppy.sh/ss/12330115)
-(gameplay elements from ikanyai's skin)
 
 # [bwpgy rafis](https://joofi.s-ul.eu/SDXLlK9h) (kinda often used)
 ![](https://osu.ppy.sh/ss/12330121)
-(gameplay elements from rafis' skin)
 
 # [bwpgy](https://joofi.s-ul.eu/FSAL8jMW) (sometimes used)
 ![](https://osu.ppy.sh/ss/12330123)
