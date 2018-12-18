@@ -50,7 +50,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy ver. 1.1](https://joofi.s-ul.eu/iVjagq2l)
 ![](https://osu.ppy.sh/ss/12330115)
 
-# [bwpgy ver. 2](https://joofi.s-ul.eu/Ibvw8YXO)
+# [bwpgy ver. 2](https://joofi.s-ul.eu/uVE2z1n2)
 ![](https://osu.ppy.sh/ss/12335711)
 
 # [bwpgy ver. 2.1](https://joofi.s-ul.eu/wOtHo6Xw)
