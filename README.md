@@ -20,6 +20,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0) (MAIN DT)
 ![](https://osu.ppy.sh/ss/12330080)
 
+# [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP) (sometimes used)
+![](https://osu.ppy.sh/ss/12335650)
+
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI) (rarely used)
 ![](https://osu.ppy.sh/ss/12330091)
 
