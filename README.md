@@ -3,7 +3,7 @@ skins that i use frequently and/or like a lot
 
 # MAIN SKINS AT TOP
 
-skin usage varies from never used to always used (with middle being sometimes used, often used, etc.)
+skin usage varies from "never used" to "always used" (with middle being "sometimes used", "often used", etc.)
 
 # INFO
 
