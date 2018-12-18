@@ -66,10 +66,10 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 ![](https://osu.ppy.sh/ss/12335731)
 
 # [bwpgy ver. 2.4.1](https://joofi.s-ul.eu/P4XTPcs3)
-![]()
+![](https://osu.ppy.sh/ss/12335744)
 
-# []()
-![]()
+# [bwpgy ver. 2.4.3](https://joofi.s-ul.eu/uAqcEIhK)
+![](https://osu.ppy.sh/ss/12335748)
 
 # []()
 ![]()
