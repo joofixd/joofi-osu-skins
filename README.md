@@ -1,9 +1,9 @@
 # my osu! skins (mixed skins and other people's skins. not a single one is my original creation)
 skins that i use frequently and/or like a lot
 
-# SKINS ARE LABELED ACCORDING TO USAGE, MAIN SKINS AT TOP
+# MAIN SKINS AT TOP
 
-labels are "very often used", "kinda often used", "sometimes used", "rarely used", and "never used". also the skins are in alphabetical order (except for main skins, obviously)
+skin usage varies from never used to always used (with middle being sometimes used, often used, etc.)
 
 # INFO
 
@@ -20,103 +20,103 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0) (MAIN DT)
 ![](https://osu.ppy.sh/ss/12330080)
 
-# [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP) (sometimes used)
+# [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP)
 ![](https://osu.ppy.sh/ss/12335650)
 
-# [asuasu_yura 1.7 no weeb (joofi taiko)](https://joofi.s-ul.eu/9OYZilrc) (very often used)
+# [asuasu_yura 1.7 no weeb (joofi taiko)](https://joofi.s-ul.eu/9OYZilrc)
 ![](https://osu.ppy.sh/ss/12335653)
 
-# []() ()
+# [azer8pinkmidnight](https://joofi.s-ul.eu/Q6XoTPFe)
+![](https://osu.ppy.sh/ss/12335664)
+
+# [bees (angelsim old)](https://joofi.s-ul.eu/9EVQz35N)
+![](https://osu.ppy.sh/ss/12335673)
+
+# [bees (angelsim old) (edited ver.)](https://joofi.s-ul.eu/QiDoqzhw)
+![](https://osu.ppy.sh/ss/12335684)
+
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
+# []()
 ![]()
 
-# []() ()
-![]()
-
-# []() ()
-![]()
-
-# []() ()
-![]()
-
-# []() ()
+# []()
 ![]()
 
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI) (rarely used)
