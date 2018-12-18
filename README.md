@@ -77,20 +77,22 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Eddie (katou megumi)](https://joofi.s-ul.eu/YLHtwSko)
 ![](https://osu.ppy.sh/ss/12330124)
 
-# []()
-![]()
+# [Falbere Glow](https://joofi.s-ul.eu/Iy6TasbM)
+![](https://osu.ppy.sh/ss/12335760)
 
-# []()
-![]()
+# [Hatsune Miku - QSY3](https://joofi.s-ul.eu/98j1hOBP)
+![](https://osu.ppy.sh/ss/12335767)
 
-# []()
-![]()
+# [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/t1rqapo5)
+![](https://osu.ppy.sh/ss/12335768)
 
-# []()
-![]()
+# [NewSkinColor2](https://joofi.s-ul.eu/CYeNaeNF)
+![](https://osu.ppy.sh/ss/12335776)
 
-# []()
-![]()
+# [R Skin v2.0 (New style)](https://joofi.s-ul.eu/rufPvf5Y)
+![](https://osu.ppy.sh/ss/12335784)
+![](https://osu.ppy.sh/ss/12335787)
+![](https://osu.ppy.sh/ss/12335788)
 
 # []()
 ![]()
