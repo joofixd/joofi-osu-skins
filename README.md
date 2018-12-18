@@ -35,10 +35,10 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bees (angelsim old) (edited ver.)](https://joofi.s-ul.eu/QiDoqzhw)
 ![](https://osu.ppy.sh/ss/12335684)
 
-# []()
-![]()
+# [boom+1025](https://joofi.s-ul.eu/4hy3XQAz)
+![](https://osu.ppy.sh/ss/12335689)
 
-# []()
+# [bwpgy](https://joofi.s-ul.eu/FSAL8jMW)
 ![]()
 
 # []()
