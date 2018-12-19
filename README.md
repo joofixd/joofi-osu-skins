@@ -47,6 +47,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy](https://joofi.s-ul.eu/FSAL8jMW)
 ![](https://osu.ppy.sh/ss/12335692)
 
+# [bwpgy clean](https://joofi.s-ul.eu/UDguqTD3)
+![](https://osu.ppy.sh/ss/12341314)
+
 # [bwpgy (rafis)](https://joofi.s-ul.eu/SDXLlK9h)
 ![](https://osu.ppy.sh/ss/12335697)
 
