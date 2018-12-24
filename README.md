@@ -35,6 +35,12 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [azer8pinkmidnight](https://joofi.s-ul.eu/Q6XoTPFe)
 ![](https://osu.ppy.sh/ss/12335664)
 
+# [azr8 old grey](https://joofi0.s-ul.eu/wKHenLXj)
+![](https://osu.ppy.sh/ss/12374537)
+
+# [azr8emilia](https://joofi0.s-ul.eu/ujyLeE8V)
+![](https://osu.ppy.sh/ss/12374550)
+
 # [bees (angelsim old)](https://joofi.s-ul.eu/9EVQz35N)
 ![](https://osu.ppy.sh/ss/12335673)
 
@@ -76,6 +82,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [Chitanda](https://joofi.s-ul.eu/cQzn64KR)
 ![](https://osu.ppy.sh/ss/12335755)
+
+# [Dumii and Kyle](https://joofi0.s-ul.eu/t1p3kOqV)
+![](https://osu.ppy.sh/ss/12374541)
 
 # [Eddie (katou megumi)](https://joofi.s-ul.eu/YLHtwSko)
 ![](https://osu.ppy.sh/ss/12330124)
