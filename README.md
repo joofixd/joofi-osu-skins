@@ -17,6 +17,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/5mLII1FM) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12335637)
 
+# [azr8 old grey](https://joofi0.s-ul.eu/wKHenLXj) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/12374537)
+
 # [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0) (MAIN DT)
 ![](https://osu.ppy.sh/ss/12330080)
 
@@ -34,9 +37,6 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [azer8pinkmidnight](https://joofi.s-ul.eu/Q6XoTPFe)
 ![](https://osu.ppy.sh/ss/12335664)
-
-# [azr8 old grey](https://joofi0.s-ul.eu/wKHenLXj)
-![](https://osu.ppy.sh/ss/12374537)
 
 # [azr8emilia](https://joofi0.s-ul.eu/ujyLeE8V)
 ![](https://osu.ppy.sh/ss/12374550)
