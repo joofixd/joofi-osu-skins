@@ -115,6 +115,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [rafis 2017](https://joofi.s-ul.eu/Yc78R1ZF)
 ![](https://osu.ppy.sh/ss/12335800)
 
+# [Rafis RyuK Edit](https://joofi0.s-ul.eu/cEYKwoCh)
+![](https://osu.ppy.sh/ss/12380943)
+
 # [ReesesPuffs Skin v1](https://joofi.s-ul.eu/3c6OZZc9)
 ![](https://osu.ppy.sh/ss/12335805)
 
@@ -138,6 +141,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [shigeskin](https://joofi.s-ul.eu/v504qYCX)
 ![](https://osu.ppy.sh/ss/12335852)
+
+# [Uberlegen Skin beta9](https://joofi0.s-ul.eu/npz9BR4i)
+![](https://osu.ppy.sh/ss/12380934)
 
 # [vaxei dt](https://joofi.s-ul.eu/lbTINUr1)
 ![](https://osu.ppy.sh/ss/12335857)
