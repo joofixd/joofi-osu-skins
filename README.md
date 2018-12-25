@@ -7,7 +7,7 @@ skin usage varies from "never used" to "always used" (with middle being "sometim
 
 # INFO
 
-some skins may appear different than the picture when putting them in the game. that's because i update the download file often and change my skins every now and then. they are easily customizable in the folder of the skin. if you need any help with my skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll update this page (skin preview picture, dl files, etc.) as often as i can.
+some skins may appear different than the picture when putting them in the game. that's because i update the download file often and change my skins every now and then. they are easily customizable in the folder of the skin. if you need any help with my skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll update this page (skin preview picture, dl links, etc.) as often as i can (i won't update dl  links and screenshots if it's just something like a cursor, unless i stick with it for a very long time. not likely tho bc i change cursors throughout like all my skins pretty frequently)
 
 INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2018 (i still edit shit everyday). i did not create any of the files. the goal of these skins are to be comfortable, minimalistic, and playable. there are VERY minimal weeb elements (welcome files, combobreak, a couple more maybe i forgot) that can be easily removed. oh yea, and the name is bwpgy because the original idea was to have the combo colors be blue, white, pink, green, and yellow, but more recent skins in the lineup don't really follow that rule.
 
