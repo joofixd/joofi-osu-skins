@@ -3,7 +3,7 @@ skins that i use frequently and/or like a lot
 
 # MAIN SKINS AT TOP
 
-skin usage varies from "never used" to "always used" (with middle being "sometimes used", "often used", etc.)
+skin usage varies from "never used" to "always used" (with middle being "sometimes used", "often used", etc.). skins are in alphabetical order (except for main skins of course), except for a few, which may be in chronological order and other logical orders (ie: "bwpgy (og)" before "bwpgy" because it was the original)
 
 # INFO
 
@@ -52,6 +52,12 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [boom+1025](https://joofi.s-ul.eu/4hy3XQAz)
 ![](https://osu.ppy.sh/ss/12335689)
+
+# [bwp (og)](https://joofi0.s-ul.eu/0hud6uDn)
+![]()
+
+# [bwpgy (og)](https://joofi0.s-ul.eu/oMItEmOu)
+![]()
 
 # [bwpgy](https://joofi.s-ul.eu/FSAL8jMW)
 ![](https://osu.ppy.sh/ss/12335692)
