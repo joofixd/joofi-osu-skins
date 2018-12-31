@@ -11,9 +11,6 @@ some skins may appear different than the picture when putting them in the game. 
 
 INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2018 (i still edit shit everyday). i did not create any of the files. the goal of these skins are to be comfortable, minimalistic, and playable. there are VERY minimal weeb elements (welcome files, combobreak, a couple more maybe i forgot) that can be easily removed. oh yea, and the name is bwpgy because the original idea was to have the combo colors be blue, white, pink, green, and yellow, but more recent skins in the lineup don't really follow that rule.
 
-# [Uberlegen Skin beta9](https://joofi0.s-ul.eu/npz9BR4i) (MAIN DT)
-![](https://osu.ppy.sh/ss/12380934)
-
 # [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP)
 ![](https://osu.ppy.sh/ss/12335650)
 
@@ -150,6 +147,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [shigeskin](https://joofi.s-ul.eu/v504qYCX)
 ![](https://osu.ppy.sh/ss/12335852)
+
+# [Uberlegen Skin beta9](https://joofi0.s-ul.eu/npz9BR4i) (MAIN DT)
+![](https://osu.ppy.sh/ss/12380934)
 
 # [vaxei dt](https://joofi.s-ul.eu/lbTINUr1)
 ![](https://osu.ppy.sh/ss/12335857)
