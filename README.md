@@ -105,7 +105,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 ![](https://osu.ppy.sh/ss/12335767)
 
 # [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/t1rqapo5)
-![](https://osu.ppy.sh/ss/12335768)
+![](https://osu.ppy.sh/ss/12415672)
 
 # [Linces Rejunte Toushi Edit](https://joofi0.s-ul.eu/w569RRk1)
 ![](https://osu.ppy.sh/ss/12353187)
