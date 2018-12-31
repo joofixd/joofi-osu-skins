@@ -1,9 +1,9 @@
 # my osu! skins (mixed skins and other people's skins. not a single one is my original creation)
 skins that i use frequently and/or like a lot
 
-# MAIN SKINS LABELED
+# MAIN SKINS ARE LABELED
 
-skins are in alphabetical order, except for a few which may be in chronological order and other logical orders (ie: "bwpgy (og)" before "bwpgy" because it was the original version)
+all skins are in alphabetical order, except for a few which may be in chronological order and other logical orders (ie: "bwpgy (og)" before "bwpgy" because it was the original version)
 
 # INFO
 
@@ -95,7 +95,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Hatsune Miku - QSY3](https://joofi.s-ul.eu/98j1hOBP)
 ![](https://osu.ppy.sh/ss/12335767)
 
-# [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/t1rqapo5)
+# [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/t1rqapo5) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12415672)
 
 # [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/5mLII1FM) (MAIN NOMOD)
