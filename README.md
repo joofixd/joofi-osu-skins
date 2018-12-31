@@ -95,7 +95,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Hatsune Miku - QSY3](https://joofi.s-ul.eu/98j1hOBP)
 ![](https://osu.ppy.sh/ss/12335767)
 
-# [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/t1rqapo5) (MAIN NOMOD)
+# [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/GWVwR4PF) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12415672)
 
 # [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/5mLII1FM) (MAIN NOMOD)
