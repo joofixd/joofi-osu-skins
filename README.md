@@ -1,27 +1,15 @@
 # my osu! skins (mixed skins and other people's skins. not a single one is my original creation)
 skins that i use frequently and/or like a lot
 
-# MAIN SKINS AT TOP
+# MAIN SKINS LABELED
 
-skin usage varies from "never used" to "always used" (with middle being "sometimes used", "often used", etc.). skins are in alphabetical order (except for main skins of course), except for a few, which may be in chronological order and other logical orders (ie: "bwpgy (og)" before "bwpgy" because it was the original)
+skins are in alphabetical order, except for a few which may be in chronological order and other logical orders (ie: "bwpgy (og)" before "bwpgy" because it was the original version)
 
 # INFO
 
 some skins may appear different than the picture when putting them in the game. that's because i update the download file often and change my skins every now and then. they are easily customizable in the folder of the skin. if you need any help with my skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll update this page (skin preview picture, dl links, etc.) as often as i can (i won't update dl  links and screenshots if it's just something like a cursor, unless i stick with it for a very long time. not likely tho bc i change cursors throughout like all my skins pretty frequently)
 
 INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2018 (i still edit shit everyday). i did not create any of the files. the goal of these skins are to be comfortable, minimalistic, and playable. there are VERY minimal weeb elements (welcome files, combobreak, a couple more maybe i forgot) that can be easily removed. oh yea, and the name is bwpgy because the original idea was to have the combo colors be blue, white, pink, green, and yellow, but more recent skins in the lineup don't really follow that rule.
-
-# [bwpgy 2.4.2](https://joofi.s-ul.eu/QFmKKkdR) (MAIN NOMOD)
-![](https://osu.ppy.sh/ss/12330073)
-
-# [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/5mLII1FM) (MAIN NOMOD)
-![](https://osu.ppy.sh/ss/12335637)
-
-# [azr8 old grey](https://joofi0.s-ul.eu/wKHenLXj) (MAIN NOMOD)
-![](https://osu.ppy.sh/ss/12374537)
-
-# [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0) (MAIN DT)
-![](https://osu.ppy.sh/ss/12330080)
 
 # [Uberlegen Skin beta9](https://joofi0.s-ul.eu/npz9BR4i) (MAIN DT)
 ![](https://osu.ppy.sh/ss/12380934)
@@ -40,6 +28,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [azer8pinkmidnight](https://joofi.s-ul.eu/Q6XoTPFe)
 ![](https://osu.ppy.sh/ss/12335664)
+
+# [azr8 old grey](https://joofi0.s-ul.eu/wKHenLXj) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/12374537)
 
 # [azr8emilia](https://joofi0.s-ul.eu/ujyLeE8V)
 ![](https://osu.ppy.sh/ss/12374550)
@@ -86,6 +77,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy ver. 2.4.1](https://joofi.s-ul.eu/P4XTPcs3)
 ![](https://osu.ppy.sh/ss/12335744)
 
+# [bwpgy 2.4.2](https://joofi.s-ul.eu/QFmKKkdR) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/12330073)
+
 # [bwpgy ver. 2.4.3](https://joofi.s-ul.eu/uAqcEIhK)
 ![](https://osu.ppy.sh/ss/12335748)
 
@@ -107,6 +101,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/t1rqapo5)
 ![](https://osu.ppy.sh/ss/12415672)
 
+# [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/5mLII1FM) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/12335637)
+
 # [Linces Rejunte Toushi Edit](https://joofi0.s-ul.eu/w569RRk1)
 ![](https://osu.ppy.sh/ss/12353187)
 
@@ -123,6 +120,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [rafis 2017](https://joofi.s-ul.eu/Yc78R1ZF)
 ![](https://osu.ppy.sh/ss/12335800)
+
+# [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0) (MAIN DT)
+![](https://osu.ppy.sh/ss/12330080)
 
 # [Rafis RyuK Edit](https://joofi0.s-ul.eu/cEYKwoCh)
 ![](https://osu.ppy.sh/ss/12380943)
