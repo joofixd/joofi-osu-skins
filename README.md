@@ -14,6 +14,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP)
 ![](https://osu.ppy.sh/ss/12335650)
 
+# [Aristia](https://joofi0.s-ul.eu/Fb3uccwM) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/12492462)
+
 # [asuasu_yura 1.7 no weeb (joofi taiko)](https://joofi.s-ul.eu/9OYZilrc)
 ![](https://osu.ppy.sh/ss/12335653)
 
@@ -26,7 +29,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [azer8pinkmidnight](https://joofi.s-ul.eu/Q6XoTPFe)
 ![](https://osu.ppy.sh/ss/12335664)
 
-# [azr8 old grey](https://joofi0.s-ul.eu/wKHenLXj) (MAIN NOMOD)
+# [azr8 old grey](https://joofi0.s-ul.eu/wKHenLXj)
 ![](https://osu.ppy.sh/ss/12374537)
 
 # [azr8emilia](https://joofi0.s-ul.eu/ujyLeE8V)
@@ -68,7 +71,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy ver. 2.3](https://joofi.s-ul.eu/vFWnu1w5)
 ![](https://osu.ppy.sh/ss/12330110)
 
-# [bwpgy ver. 2.4](https://joofi.s-ul.eu/B5OWiIzV)
+# [bwpgy ver. 2.4](https://joofi.s-ul.eu/B5OWiIzV) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12335731)
 
 # [bwpgy ver. 2.4.1](https://joofi.s-ul.eu/P4XTPcs3)
@@ -106,6 +109,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [NewSkinColor2](https://joofi.s-ul.eu/CYeNaeNF)
 ![](https://osu.ppy.sh/ss/12335776)
+
+# [Noel skin attempt](https://joofi0.s-ul.eu/fabq442q)
+![](https://osu.ppy.sh/ss/12492476)
 
 # [R Skin v2.0 (New style)](https://joofi.s-ul.eu/rufPvf5Y)
 ![](https://osu.ppy.sh/ss/12335784)
