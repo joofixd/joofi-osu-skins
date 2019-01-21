@@ -14,7 +14,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP)
 ![](https://osu.ppy.sh/ss/12335650)
 
-# [Aristia](https://joofi0.s-ul.eu/Fb3uccwM) (MAIN NOMOD)
+# [Aristia](https://joofi0.s-ul.eu/Fb3uccwM)
 ![](https://osu.ppy.sh/ss/12492462)
 
 # [asuasu_yura 1.7 no weeb (joofi taiko)](https://joofi.s-ul.eu/9OYZilrc)
