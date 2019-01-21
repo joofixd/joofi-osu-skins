@@ -95,6 +95,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Falbere Glow](https://joofi.s-ul.eu/Iy6TasbM)
 ![](https://osu.ppy.sh/ss/12335760)
 
+# [Girls Frontline v4](https://joofi0.s-ul.eu/EKqQX0oR) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/12548192)
+
 # [Hatsune Miku - QSY3](https://joofi.s-ul.eu/98j1hOBP)
 ![](https://osu.ppy.sh/ss/12335767)
 
