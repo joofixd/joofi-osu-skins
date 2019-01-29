@@ -77,7 +77,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy ver. 2.4.1](https://joofi.s-ul.eu/P4XTPcs3)
 ![](https://osu.ppy.sh/ss/12335744)
 
-# [bwpgy 2.4.2](https://joofi.s-ul.eu/QFmKKkdR) (MAIN NOMOD)
+# [bwpgy 2.4.2](https://joofi.s-ul.eu/QFmKKkdR)
 ![](https://osu.ppy.sh/ss/12330073)
 
 # [bwpgy ver. 2.4.3](https://joofi.s-ul.eu/uAqcEIhK)
@@ -113,7 +113,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [NewSkinColor2](https://joofi.s-ul.eu/CYeNaeNF)
 ![](https://osu.ppy.sh/ss/12335776)
 
-# [Noel skin attempt](https://joofi0.s-ul.eu/fabq442q) (MAIN NOMOD)
+# [Noel skin attempt](https://joofi0.s-ul.eu/fabq442q)
 ![](https://osu.ppy.sh/ss/12492476)
 
 # [R Skin v2.0 (New style)](https://joofi.s-ul.eu/rufPvf5Y)
