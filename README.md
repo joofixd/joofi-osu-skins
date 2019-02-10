@@ -11,7 +11,7 @@ some skins may appear different than the picture when putting them in the game. 
 
 INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2018 (i still edit shit everyday). i did not create any of the files. the goal of these skins are to be comfortable, minimalistic, and playable. there are VERY minimal weeb elements (welcome files, combobreak, a couple more maybe i forgot) that can be easily removed. oh yea, and the name is bwpgy because the original idea was to have the combo colors be blue, white, pink, green, and yellow, but more recent skins in the lineup don't really follow that rule.
 
-# [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP)
+# [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12335650)
 
 # [Aristia](https://joofi0.s-ul.eu/Fb3uccwM)
