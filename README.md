@@ -110,7 +110,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/5mLII1FM) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12335637)
 
-# [Lege sky&Azusa (shige hitsounds)](https://joofi0.s-ul.eu/V3E8Lvnl)
+# [Lege sky&Azusa (shige hitsounds)](https://joofi0.s-ul.eu/V3E8Lvnl) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12697915)
 
 # [Linces Rejunte Toushi Edit](https://joofi0.s-ul.eu/w569RRk1)
