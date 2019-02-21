@@ -104,6 +104,12 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Hatsune Miku - QSY3](https://joofi.s-ul.eu/98j1hOBP)
 ![](https://osu.ppy.sh/ss/12335767)
 
+# [joofi ideke](https://joofi0.s-ul.eu/anZR9lxc)
+![](https://osu.ppy.sh/ss/12736877)
+
+# [joofi ideke ver. 2](https://joofi0.s-ul.eu/Ij0fx6Lv)
+![](https://osu.ppy.sh/ss/12736880)
+
 # [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/GWVwR4PF) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12415672)
 
