@@ -74,7 +74,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy ver. 2.3](https://joofi.s-ul.eu/vFWnu1w5)
 ![](https://osu.ppy.sh/ss/12330110)
 
-# [bwpgy ver. 2.4](https://joofi.s-ul.eu/B5OWiIzV) (MAIN NOMOD)
+# [bwpgy ver. 2.4](https://joofi.s-ul.eu/B5OWiIzV)
 ![](https://osu.ppy.sh/ss/12335731)
 
 # [bwpgy ver. 2.4.1](https://joofi.s-ul.eu/P4XTPcs3)
@@ -98,7 +98,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Falbere Glow](https://joofi.s-ul.eu/Iy6TasbM)
 ![](https://osu.ppy.sh/ss/12335760)
 
-# [Girls Frontline v4](https://joofi0.s-ul.eu/EKqQX0oR) (MAIN NOMOD)
+# [Girls Frontline v4](https://joofi0.s-ul.eu/EKqQX0oR)
 ![](https://osu.ppy.sh/ss/12548192)
 
 # [Hatsune Miku - QSY3](https://joofi.s-ul.eu/98j1hOBP)
@@ -107,16 +107,16 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [joofi ideke](https://joofi0.s-ul.eu/anZR9lxc)
 ![](https://osu.ppy.sh/ss/12736891)
 
-# [joofi ideke ver. 2](https://joofi0.s-ul.eu/Ij0fx6Lv)
+# [joofi ideke ver. 2](https://joofi0.s-ul.eu/Ij0fx6Lv) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12736886)
 
-# [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/GWVwR4PF) (MAIN NOMOD)
+# [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/GWVwR4PF)
 ![](https://osu.ppy.sh/ss/12415672)
 
-# [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/5mLII1FM) (MAIN NOMOD)
+# [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/5mLII1FM)
 ![](https://osu.ppy.sh/ss/12335637)
 
-# [Lege sky&Azusa (shige hitsounds)](https://joofi0.s-ul.eu/V3E8Lvnl) (MAIN NOMOD)
+# [Lege sky&Azusa (shige hitsounds)](https://joofi0.s-ul.eu/V3E8Lvnl)
 ![](https://osu.ppy.sh/ss/12697915)
 
 # [Linces Rejunte Toushi Edit](https://joofi0.s-ul.eu/w569RRk1)
@@ -169,7 +169,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [shigeskin](https://joofi.s-ul.eu/v504qYCX)
 ![](https://osu.ppy.sh/ss/12335852)
 
-# [Uberlegen Skin beta9](https://joofi0.s-ul.eu/npz9BR4i) (MAIN DT)
+# [Uberlegen Skin beta9](https://joofi0.s-ul.eu/npz9BR4i)
 ![](https://osu.ppy.sh/ss/12380934)
 
 # [vaxei dt](https://joofi.s-ul.eu/lbTINUr1)
