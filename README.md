@@ -7,9 +7,9 @@ all skins are in alphabetical order, except for a few which may be in chronologi
 
 # INFO
 
-some skins may appear different than the picture when putting them in the game. that's because i update the download file often and change my skins every now and then. they are easily customizable in the folder of the skin. if you need any help with my skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll update this page (skin preview picture, dl links, etc.) as often as i can (i won't update dl  links and screenshots if it's just something like a cursor, unless i stick with it for a very long time. not likely tho bc i change cursors throughout like all my skins pretty frequently)
+some skins may appear different than the picture when putting them in the game. that's because i change my skins every now and then. most of the time, it's just something like a cursor or followpoints. those are easily customizable in the folder of the skin. if it is anything else and i stick with that version of the skin for a couple of days, i will update the download file and screenshot. if you need any help with my skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll update this page (skin preview picture, dl links, etc.) as often as i can.
 
-INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2018 (i still edit shit everyday). i did not create any of the files. the goal of these skins are to be comfortable, minimalistic, and playable. there are VERY minimal weeb elements (welcome files, combobreak, a couple more maybe i forgot) that can be easily removed. oh yea, and the name is bwpgy because the original idea was to have the combo colors be blue, white, pink, green, and yellow, but more recent skins in the lineup don't really follow that rule.
+INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2018 (i still edit shit everyday). i did not create any of the files. the goal of these skins are to be comfortable, minimalistic, and playable. there are VERY minimal weeb elements (welcome files, combobreak, a couple more maybe i forgot) that can be easily removed. oh yea, and the name is bwpgy because the original idea was to have the combo colors be blue, white, pink, green, and yellow, but more recent skins in the lineup don't really follow that rule because i got lazy.
 
 # [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12335650)
@@ -56,7 +56,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy](https://joofi.s-ul.eu/FSAL8jMW)
 ![](https://osu.ppy.sh/ss/12335692)
 
-# [bwpgy (rafis)](https://joofi.s-ul.eu/SDXLlK9h)
+# [bwpgy (rafis)](https://joofi.s-ul.eu/SDXLlK9h) (MAIN DT)
 ![](https://osu.ppy.sh/ss/12335697)
 
 # [bwpgy ver. 1.1](https://joofi.s-ul.eu/iVjagq2l)
@@ -110,7 +110,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [joofi ideke ver. 2](https://joofi0.s-ul.eu/Ij0fx6Lv) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12736886)
 
-# [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/GWVwR4PF)
+# [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/GWVwR4PF) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12415672)
 
 # [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/5mLII1FM)
@@ -160,7 +160,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Selyu](https://joofi.s-ul.eu/brRZ20Cc)
 ![](https://osu.ppy.sh/ss/12335835)
 
-# [Selyu v2.3](https://joofi.s-ul.eu/ppHmR81F)
+# [Selyu v2.3](https://joofi.s-ul.eu/ppHmR81F) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12335838)
 
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI)
