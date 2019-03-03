@@ -160,6 +160,15 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Selyu v2.3](https://joofi.s-ul.eu/ppHmR81F) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12335838)
 
+# [Seoul v9](https://joofi0.s-ul.eu/q3sTjZ04)
+![](https://osu.ppy.sh/ss/12798380)
+
+# [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/NHKA9H7y) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/12798397)
+
+# [Seoul v9 (edited ver. (blurple)](https://joofi0.s-ul.eu/8zMbzjyc) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/12798403)
+
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI)
 ![](https://osu.ppy.sh/ss/12335843)
 
