@@ -32,9 +32,6 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [azr8 old grey](https://joofi0.s-ul.eu/wKHenLXj)
 ![](https://osu.ppy.sh/ss/12374537)
 
-# [azr8emilia](https://joofi0.s-ul.eu/ujyLeE8V)
-![](https://osu.ppy.sh/ss/12374550)
-
 # [bees (angelsim old)](https://joofi.s-ul.eu/9EVQz35N)
 ![](https://osu.ppy.sh/ss/12335673)
 
@@ -165,9 +162,6 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/NHKA9H7y) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/12798397)
-
-# [Seoul v9 (edited ver. (blurple)](https://joofi0.s-ul.eu/8zMbzjyc) (MAIN NOMOD)
-![](https://osu.ppy.sh/ss/12798403)
 
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI)
 ![](https://osu.ppy.sh/ss/12335843)
