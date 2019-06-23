@@ -29,6 +29,9 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [azr8 old grey](https://joofi0.s-ul.eu/wKHenLXj)
 ![](https://osu.ppy.sh/ss/12374537)
 
+# [Azerite](https://joofi0.s-ul.eu/tdhCZ0jF) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/13420699/e2ff)
+
 # [bees (angelsim old)](https://joofi.s-ul.eu/9EVQz35N)
 ![](https://osu.ppy.sh/ss/12335673)
 
@@ -50,7 +53,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy](https://joofi.s-ul.eu/FSAL8jMW)
 ![](https://osu.ppy.sh/ss/12335692)
 
-# [bwpgy (rafis)](https://joofi.s-ul.eu/SDXLlK9h) (MAIN DT)
+# [bwpgy (rafis)](https://joofi.s-ul.eu/SDXLlK9h)
 ![](https://osu.ppy.sh/ss/12335697)
 
 # [bwpgy ver. 1.1](https://joofi.s-ul.eu/iVjagq2l)
@@ -68,7 +71,7 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [bwpgy ver. 2.3](https://joofi.s-ul.eu/vFWnu1w5)
 ![](https://osu.ppy.sh/ss/12330110)
 
-# [bwpgy ver. 2.4](https://joofi.s-ul.eu/B5OWiIzV) (MAIN NOMOD)
+# [bwpgy ver. 2.4](https://joofi.s-ul.eu/B5OWiIzV)
 ![](https://osu.ppy.sh/ss/12335731)
 
 # [bwpgy ver. 2.4.1](https://joofi.s-ul.eu/P4XTPcs3)
@@ -101,10 +104,10 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [joofi ideke](https://joofi0.s-ul.eu/anZR9lxc)
 ![](https://osu.ppy.sh/ss/12736891)
 
-# [joofi ideke ver. 2](https://joofi0.s-ul.eu/Ij0fx6Lv) (MAIN NOMOD)
+# [joofi ideke ver. 2](https://joofi0.s-ul.eu/Ij0fx6Lv)
 ![](https://osu.ppy.sh/ss/12736886)
 
-# [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/GWVwR4PF) (MAIN NOMOD)
+# [joofi rem&ram (mostly rem)](https://joofi.s-ul.eu/GWVwR4PF)
 ![](https://osu.ppy.sh/ss/12415672)
 
 # [Kiti's Garden Skin (edited ver.)](https://joofi.s-ul.eu/5mLII1FM)
@@ -151,14 +154,14 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Selyu](https://joofi.s-ul.eu/brRZ20Cc)
 ![](https://osu.ppy.sh/ss/12335835)
 
-# [Selyu v2.3](https://joofi.s-ul.eu/ppHmR81F) (MAIN NOMOD)
+# [Selyu v2.3](https://joofi.s-ul.eu/ppHmR81F)
 ![](https://osu.ppy.sh/ss/12335838)
 
 # [Seoul v9](https://joofi0.s-ul.eu/q3sTjZ04)
 ![](https://osu.ppy.sh/ss/12798380)
 
-# [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/NHKA9H7y) (MAIN NOMOD)
-![](https://osu.ppy.sh/ss/12798397)
+# [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/8MG8nLIN) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/13420732/4c16)
 
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI)
 ![](https://osu.ppy.sh/ss/12335843)
