@@ -136,8 +136,11 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [rafis 2017](https://joofi.s-ul.eu/Yc78R1ZF)
 ![](https://osu.ppy.sh/ss/12335800)
 
-# [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0) (MAIN DT)
+# [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0)
 ![](https://osu.ppy.sh/ss/12330080)
+
+# [Rafis HDDT (joofi ver.)](https://joofi0.s-ul.eu/sFaEpHir) (MAIN DT)
+![](https://osu.ppy.sh/ss/13421398/05f1)
 
 # [ReesesPuffs Skin v1](https://joofi.s-ul.eu/3c6OZZc9)
 ![](https://osu.ppy.sh/ss/12335805)
