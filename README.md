@@ -3,7 +3,7 @@ skins that i use frequently and/or like a lot
 
 # MAIN SKINS ARE LABELED
 
-all skins are in alphabetical order, except for a few which may be in chronological order and other logical orders (ie: "bwpgy (og)" before "bwpgy" because it was the original version)
+main nomod skin and main dt skin are always gonna be at the top. other than that, all skins are in alphabetical order, except for a few which may be in chronological order and other logical orders (ie: "bwpgy (og)" before "bwpgy" because it was the original version)
 
 # INFO
 
