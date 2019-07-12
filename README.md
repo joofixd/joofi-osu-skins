@@ -11,6 +11,12 @@ some skins may appear different than the picture when putting them in the game. 
 
 INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2018 (i still edit shit everyday). i did not create any of the files. the goal of these skins are to be comfortable, minimalistic, and playable. there are VERY minimal weeb elements (welcome files, combobreak, a couple more maybe i forgot) that can be easily removed. oh yea, and the name is bwpgy because the original idea was to have the combo colors be blue, white, pink, green, and yellow, but more recent skins in the lineup don't really follow that rule because i got lazy.
 
+# [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/G45Two4m) (MAIN NOMOD)
+![](https://osu.ppy.sh/ss/13516076/69e3)
+
+# [Rafis HDDT (joofi ver.)](https://joofi0.s-ul.eu/BO2Cg15T) (MAIN DT)
+![](https://osu.ppy.sh/ss/13421398/05f1)
+
 # [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP)
 ![](https://osu.ppy.sh/ss/12335650)
 
@@ -139,9 +145,6 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 # [Rafis HDDT](https://joofi.s-ul.eu/1KHUjhY0)
 ![](https://osu.ppy.sh/ss/12330080)
 
-# [Rafis HDDT (joofi ver.)](https://joofi0.s-ul.eu/sFaEpHir) (MAIN DT)
-![](https://osu.ppy.sh/ss/13421398/05f1)
-
 # [ReesesPuffs Skin v1](https://joofi.s-ul.eu/3c6OZZc9)
 ![](https://osu.ppy.sh/ss/12335805)
 
@@ -162,9 +165,6 @@ INFO ON BWPGY SKINS: these skins are mix skins that i began to work on in june 2
 
 # [Seoul v9](https://joofi0.s-ul.eu/q3sTjZ04)
 ![](https://osu.ppy.sh/ss/12798380)
-
-# [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/G45Two4m) (MAIN NOMOD)
-![](https://osu.ppy.sh/ss/13516076/69e3)
 
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI)
 ![](https://osu.ppy.sh/ss/12335843)
