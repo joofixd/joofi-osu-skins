@@ -9,7 +9,7 @@ main nomod skin and main dt skin are always gonna be at the top. other than that
 
 i edit my skins a lot (cursor, followpoints, etc.), so i may not update them here all the time. if you need any help with my skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll try to update this page (skin preview picture, dl links, etc.) as often as i can though.
 
-# [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/G45Two4m) (MAIN NOMOD)
+# [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/gHcHII1U) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/13516076/69e3)
 
 # [Rafis HDDT (joofi ver.)](https://joofi0.s-ul.eu/BO2Cg15T) (MAIN DT)
