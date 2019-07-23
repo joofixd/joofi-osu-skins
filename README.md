@@ -3,11 +3,11 @@ skins that i use frequently and/or like a lot
 
 # MAIN SKINS ARE LABELED
 
-main nomod skin and main dt skin are always gonna be at the top. other than that, all skins are in alphabetical order, except for a few which may be in chronological order and other logical orders (ie: "bwpgy (og)" before "bwpgy")
+main nomod skin and main dt skin are always gonna be at the top. other than that, all skins are in alphabetical order, except for a few which may be in chronological order and other logical orders.
 
 # INFO
 
-i edit my skins a lot (cursor, followpoints, etc.), so i may not update them here all the time. if you need any help with my skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll try to update this page (skin preview picture, dl links, etc.) as often as i can though.
+i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update them here all the time. if you any questions about my skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll try to update this page (skin preview picture, dl links, etc.) as often as i can though.
 
 # [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/gHcHII1U) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/13516076/69e3)
