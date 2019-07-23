@@ -33,7 +33,7 @@ i edit my skins a lot (cursor, followpoints, etc.), so i may not update them her
 # [azr8 old grey](https://joofi0.s-ul.eu/wKHenLXj)
 ![](https://osu.ppy.sh/ss/12374537)
 
-# [Azerite](https://joofi0.s-ul.eu/tdhCZ0jF) (MAIN NOMOD)
+# [Azerite](https://joofi0.s-ul.eu/tdhCZ0jF)
 ![](https://osu.ppy.sh/ss/13420699/e2ff)
 
 # [bees (angelsim old)](https://joofi.s-ul.eu/9EVQz35N)
