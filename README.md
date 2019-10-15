@@ -12,11 +12,11 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 # [Seoul v9 (edited ver.) no weeb](https://joofi0.s-ul.eu/xeTOj9Zu) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/13835550/e15b)
 
-# [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/gHcHII1U) (MAIN NOMOD)
-![](https://osu.ppy.sh/ss/13516076/69e3)
-
 # [Rafis HDDT (joofi ver.)](https://joofi0.s-ul.eu/BO2Cg15T) (MAIN DT)
 ![](https://osu.ppy.sh/ss/13421398/05f1)
+
+# [Elysion no weeb](https://joofi0.s-ul.eu/sPhZtgCL) (MAIN NOMOD/DT)
+![](https://osu.ppy.sh/ss/13980318/07c7)
 
 # [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP)
 ![](https://osu.ppy.sh/ss/12335650)
@@ -166,6 +166,9 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 
 # [Seoul v9](https://joofi0.s-ul.eu/q3sTjZ04)
 ![](https://osu.ppy.sh/ss/12798380)
+
+# [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/gHcHII1U)
+![](https://osu.ppy.sh/ss/13516076/69e3)
 
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI)
 ![](https://osu.ppy.sh/ss/12335843)
