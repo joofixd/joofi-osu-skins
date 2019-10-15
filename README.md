@@ -15,7 +15,7 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 # [Rafis HDDT (joofi ver.)](https://joofi0.s-ul.eu/BO2Cg15T) (MAIN DT)
 ![](https://osu.ppy.sh/ss/13421398/05f1)
 
-# [Elysion no weeb](https://joofi0.s-ul.eu/sPhZtgCL) (MAIN NOMOD/DT)
+# [Elysion no weeb](https://joofi0.s-ul.eu/0uzKKgPZ) (MAIN NOMOD/DT)
 ![](https://osu.ppy.sh/ss/13980318/07c7)
 
 # [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP)
