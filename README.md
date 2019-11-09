@@ -10,7 +10,7 @@ main nomod skin and main dt skin are always gonna be at the top. other than that
 i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update them here all the time. if you any questions about my skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll try to update this page (skin preview picture, dl links, etc.) as often as i can though.
 
 # [Elysion no weeb](https://joofi0.s-ul.eu/7FoQAR06) (MAIN NOMOD/DT)
-![](https://osu.ppy.sh/ss/14092786/aa7f7)
+![](https://osu.ppy.sh/ss/14092786/aa7f)
 
 # [Seoul v9 (edited ver.) no weeb](https://joofi0.s-ul.eu/xeTOj9Zu) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/13835550/e15b)
