@@ -3,7 +3,7 @@ skins that i use frequently and/or like a lot
 
 # MAIN SKINS ARE LABELED
 
-main nomod skin and main dt skin are always gonna be at the top. other than that, all skins are in alphabetical order, except for a few which may be in chronological order and other logical orders.
+main nomod skin/s and main dt skin/s are always gonna be at the top. other than that, all skins are in alphabetical order, except for a few which may be in chronological order and other logical orders.
 
 # INFO
 
@@ -14,6 +14,9 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 
 # [Seoul v9 (edited ver.) no weeb](https://joofi0.s-ul.eu/xeTOj9Zu) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/13835550/e15b)
+
+# []()
+![](https://osu.ppy.sh/ss/14175014/1ac0)
 
 # [Rafis HDDT (joofi ver.)](https://joofi0.s-ul.eu/BO2Cg15T) (MAIN DT)
 ![](https://osu.ppy.sh/ss/13421398/05f1)
