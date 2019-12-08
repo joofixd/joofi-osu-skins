@@ -18,6 +18,9 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 # [Seoul v9 (edited ver.) no weeb ver. 2](https://joofi0.s-ul.eu/ho717cOq) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/14175014/1ac0)
 
+# [varvalian (joofi ver.)](https://joofi0.s-ul.eu/eCyS23Tf)
+![](https://osu.ppy.sh/ss/14217246/130d)
+
 # [Rafis HDDT (joofi ver.)](https://joofi0.s-ul.eu/BO2Cg15T) (MAIN DT)
 ![](https://osu.ppy.sh/ss/13421398/05f1)
 
