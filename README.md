@@ -1,4 +1,4 @@
-# my osu! skins (mixed skins and other people's skins. not a single one is my original creation)
+# my osu! skins (these are mixed skins and other people's skins. not a single one is my original creation)
 skins that i use frequently and/or like a lot
 
 # MAIN SKINS ARE LABELED
@@ -7,7 +7,7 @@ main nomod skin/s and main dt skin/s are always gonna be at the top. other than 
 
 # INFO
 
-i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update them here all the time. if you any questions about my skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll try to update this page (skin preview picture, dl links, etc.) as often as i can though.
+i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update them here all the time. if you have any questions about these skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll try to update this page (skin preview picture, dl links, etc.) as often as i can though.
 
 # [Elysion no weeb](https://joofi0.s-ul.eu/7FoQAR06) (MAIN NOMOD/DT)
 ![](https://osu.ppy.sh/ss/14092786/aa7f)
