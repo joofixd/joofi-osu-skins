@@ -12,7 +12,7 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 # [Elysion no weeb](https://joofi0.s-ul.eu/7FoQAR06) (MAIN NOMOD/DT)
 ![](https://osu.ppy.sh/ss/14092786/aa7f)
 
-# [Seoul v9 (edited ver.) no weeb](https://joofi0.s-ul.eu/rQvvCf6s) (MAIN NOMOD)
+# [Seoul v9 (edited ver.) no weeb](https://joofi1.s-ul.eu/FnpxTvlS) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/13835550/e15b)
 
 # [Seoul v9 (edited ver.) no weeb ver. 2](https://joofi0.s-ul.eu/ho717cOq) (MAIN NOMOD)
