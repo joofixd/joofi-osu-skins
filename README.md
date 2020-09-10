@@ -13,7 +13,7 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 ![](https://osu.ppy.sh/ss/15523462/8841)
 
 # [Rafis HDDT (joofi ver.)](https://joofi0.s-ul.eu/BO2Cg15T) (MAIN DT)
-![](https://osu.ppy.sh/ss/13421398/05f1)
+![](https://osu.ppy.sh/ss/15523466/c046)
 
 # [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP)
 ![](https://osu.ppy.sh/ss/12335650)
