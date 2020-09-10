@@ -3,7 +3,7 @@ skins that i use frequently and/or like a lot
 
 # MAIN SKINS ARE LABELED
 
-main nomod skin/s and main dt skin/s are always gonna be at the top. other than that, all skins are in alphabetical order, except for a few which may be in chronological order and other logical orders.
+main nomod skin/s and main dt skin/s are always gonna be at the top. other than that, all skins are in alphabetical order
 
 # INFO
 
@@ -11,15 +11,6 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 
 # [Seoul v9 (edited ver.) no weeb](https://joofi1.s-ul.eu/FnpxTvlS) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/13835550/e15b)
-
-# [Elysion no weeb](https://joofi0.s-ul.eu/7FoQAR06) (MAIN NOMOD/DT)
-![](https://osu.ppy.sh/ss/14092786/aa7f)
-
-# [Seoul v9 (edited ver.) no weeb ver. 2](https://joofi0.s-ul.eu/ho717cOq) (MAIN NOMOD)
-![](https://osu.ppy.sh/ss/14175014/1ac0)
-
-# [varvalian (joofi ver.)](https://joofi0.s-ul.eu/o1OglZNE)
-![](https://osu.ppy.sh/ss/14217246/130d)
 
 # [Rafis HDDT (joofi ver.)](https://joofi0.s-ul.eu/BO2Cg15T) (MAIN DT)
 ![](https://osu.ppy.sh/ss/13421398/05f1)
@@ -105,6 +96,9 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 # [Eddie (katou megumi)](https://joofi.s-ul.eu/YLHtwSko)
 ![](https://osu.ppy.sh/ss/12330124)
 
+# [Elysion no weeb](https://joofi0.s-ul.eu/7FoQAR06)
+![](https://osu.ppy.sh/ss/14092786/aa7f)
+
 # [Falbere Glow](https://joofi.s-ul.eu/Iy6TasbM)
 ![](https://osu.ppy.sh/ss/12335760)
 
@@ -176,6 +170,9 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 # [Seoul v9 (edited ver.)](https://joofi0.s-ul.eu/gHcHII1U)
 ![](https://osu.ppy.sh/ss/13516076/69e3)
 
+# [Seoul v9 (edited ver.) no weeb ver. 2](https://joofi0.s-ul.eu/ho717cOq)
+![](https://osu.ppy.sh/ss/14175014/1ac0)
+
 # [Seoul.v9 Personal Skin V3 (edited ver.)](https://joofi.s-ul.eu/lk4ErsuI)
 ![](https://osu.ppy.sh/ss/12335843)
 
@@ -184,6 +181,9 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 
 # [Uberlegen Skin beta9](https://joofi0.s-ul.eu/npz9BR4i)
 ![](https://osu.ppy.sh/ss/12380934)
+
+# [varvalian (joofi ver.)](https://joofi0.s-ul.eu/o1OglZNE)
+![](https://osu.ppy.sh/ss/14217246/130d)
 
 # [vaxei dt](https://joofi.s-ul.eu/lbTINUr1)
 ![](https://osu.ppy.sh/ss/12335857)
