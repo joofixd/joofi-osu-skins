@@ -7,12 +7,12 @@ main nomod skin/s and main dt skin/s are always gonna be at the top. other than 
 
 # INFO
 
-i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update them here all the time. if you have any questions about these skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll try to update this page (skin preview picture, dl links, etc.) as often as i can though.
+i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update them here all the time. if you have any questions about these skins, feel free to dm me on discord @joofi#9192 and i'll respond asap. i'll try to update this page (skin preview picture, dl links, etc.) as often as i can.
 
-# [Seoul v9 (edited ver.) no weeb](https://joofi1.s-ul.eu/FnpxTvlS) (MAIN NOMOD)
+# [Seoul v9 (edited ver.) no weeb](https://joofi1.s-ul.eu/rCkKnEBV) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/15523462/8841)
 
-# [Rafis HDDT (joofi ver.)](https://joofi0.s-ul.eu/BO2Cg15T) (MAIN DT)
+# [Rafis HDDT (joofi ver.)](https://joofi1.s-ul.eu/e4am6g8A) (MAIN DT)
 ![](https://osu.ppy.sh/ss/15523466/c046)
 
 # [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP)
