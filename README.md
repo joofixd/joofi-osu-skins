@@ -1,5 +1,5 @@
-# my osu! skins (these are mixed skins and other people's skins. not a single one is my original creation)
-skins that i use frequently and/or like a lot
+# my osu! skins
+these are mixed skins and other people's skins. not a single one is my original creation. they're all skins that i use frequently and/or like a lot
 
 # MAIN SKINS ARE LABELED
 
