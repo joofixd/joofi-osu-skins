@@ -14,7 +14,7 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 # [Seoul v9 (edited ver.) no weeb](https://joofi1.s-ul.eu/rCkKnEBV) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/15523462/8841)
 
-# [Rafis HDDT (joofi ver.)](https://joofi1.s-ul.eu/e4am6g8A) (MAIN DT)
+# [Rafis HDDT (joofi ver.)](https://joofi1.s-ul.eu/CihLfBUA) (MAIN DT)
 ![](https://osu.ppy.sh/ss/15523466/c046)
 
 # [a bad skin for winter](https://joofi.s-ul.eu/mgUwIzzP)
