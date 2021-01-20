@@ -11,7 +11,7 @@ i edit skins that i use A LOT (cursor, followpoints, etc.), so i may not update 
 
 # last updated: 09/12/2020 (mm/dd/yyyy)
 
-# [Seoul v9 (edited ver.) no weeb](https://joofi1.s-ul.eu/rCkKnEBV) (MAIN NOMOD)
+# [Seoul v9 (edited ver.) no weeb](https://joofi1.s-ul.eu/le4l39dy) (MAIN NOMOD)
 ![](https://osu.ppy.sh/ss/15523462/8841)
 
 # [Rafis HDDT (joofi ver.)](https://joofi1.s-ul.eu/CihLfBUA) (MAIN DT)
